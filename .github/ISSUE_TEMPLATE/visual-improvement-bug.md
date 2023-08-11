@@ -1,6 +1,6 @@
 ---
 name: Visual improvement/bug
-about: ''
+about: Raport visual improvements or bug
 title: ''
 labels: visual
 assignees: ''
