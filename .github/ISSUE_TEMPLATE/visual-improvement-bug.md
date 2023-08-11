@@ -1,6 +1,6 @@
 ---
 name: Visual improvement/bug
-about: Describe this issue template's purpose here.
+about: ''
 title: ''
 labels: visual
 assignees: ''
